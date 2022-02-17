@@ -17,7 +17,7 @@
 	<p></p>
 	<div class="container">
 		<div class="card">
-			<div class="card-header">Inscription Super Hero</div>
+			<div class="card-header text-primary">Inscription d'un Super Hero</div>
 			<div class="card-body">
 				<p id="geoError">
 					<font color="red"> </font>
